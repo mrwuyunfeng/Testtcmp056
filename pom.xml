@@ -7,8 +7,8 @@
     <groupId>cn.bdqn.tangcco.tcmp056</groupId>
     <artifactId>Test</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <!--asdasdasdasd-->
-    <!--武鹏是个完美的汉子-->
+
+    <!--武鹏是个完美的汉子  是的-->
     <dependencies>
         <!-- https://mvnrepository.com/artifact/junit/junit -->
         <dependency>
